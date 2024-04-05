@@ -1,0 +1,17 @@
+{
+    "name": "jean85/renovate-composer-single-pipe-repro",
+    "license": "MIT",
+    "description": "A minimal reproduction case for the issue found in https://github.com/renovatebot/renovate/discussions/28230",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Alessandro Lai",
+            "email": "alessandro.lai85@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "symfony/phpunit-bridge": "^5.4",
+        "symfony/validator": "^4.4 | ^5.0 | ^6.0"
+    }
+}
