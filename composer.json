@@ -12,6 +12,6 @@
     "minimum-stability": "stable",
     "require": {
         "symfony/phpunit-bridge": "^5.4",
-        "symfony/validator": "^4.4 | ^5.0 | ^6.0"
+        "symfony/validator": "^4.4 | ^5.0 | ^6.0 || 7.0.6"
     }
 }
